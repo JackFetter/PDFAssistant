@@ -1,5 +1,7 @@
 # PDF Assistant
-A Python 3-based script which I use to combine PDF sheets at work. It's essentially just a wrapper for PyPDF2 which means anyone can combine two PDF files easily (providing they know how to use CLI).
+A Python 3 script which I use to combine PDF sheets at work. This is in order to create pricing sheets which include both 24 and 36 month payment terms in a single PDF file.
+
+![Screenshot](screenshot.png)
 
 ## The Complete Program
 ```
